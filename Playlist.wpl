@@ -1,0 +1,48 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.17514"/>
+        <meta name="ItemCount" content="36"/>
+        <title>Playlist</title>
+    </head>
+    <body>
+        <seq>
+            <media src="01 Intro.mp3"/>
+            <media src="02 Childhood (Natalee, Britney B &amp; Margrett).mp3"/>
+            <media src="03 Economics 101.mp3"/>
+            <media src="04 Jon Bennet.mp3"/>
+            <media src="05 Tana Hofstad.mp3"/>
+            <media src="06 Abandoned.mp3"/>
+            <media src="07 Britney B.mp3"/>
+            <media src="08 Natalee.mp3"/>
+            <media src="09 The Pines.mp3"/>
+            <media src="10 Mel B.mp3"/>
+            <media src="11 Laysla.mp3"/>
+            <media src="12 Erika.mp3"/>
+            <media src="13 Katy.mp3"/>
+            <media src="14 Laysla II.mp3"/>
+            <media src="15 Britney B II.mp3"/>
+            <media src="16 Milenia.mp3"/>
+            <media src="17 Shakisha.mp3"/>
+            <media src="18 Brittney W.mp3"/>
+            <media src="19 Mukilteo.mp3"/>
+            <media src="20 Miranda.mp3"/>
+            <media src="21 Marissa.mp3"/>
+            <media src="22 Ted.mp3"/>
+            <media src="23 Mike Spiess.mp3"/>
+            <media src="24 Corina.mp3"/>
+            <media src="25 Laysla III.mp3"/>
+            <media src="26 Malik.mp3"/>
+            <media src="27 Lacey.mp3"/>
+            <media src="28 Margrett.mp3"/>
+            <media src="29 Shaniquaqua.mp3"/>
+            <media src="30 Cassandra.mp3"/>
+            <media src="31 Margrett II.mp3"/>
+            <media src="32 SeaTac Airport.mp3"/>
+            <media src="33 Angela.mp3"/>
+            <media src="34 Olivia.mp3"/>
+            <media src="35 Ciara.mp3"/>
+            <media src="36 Megan.mp3"/>
+        </seq>
+    </body>
+</smil>

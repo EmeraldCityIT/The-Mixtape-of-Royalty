@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>01%20Intro.mp3</location>
+			<title>Intro</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>1</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>404309</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>02%20Childhood%20(Natalee,%20Britney%20B%20&amp;%20Margrett).mp3</location>
+			<title>Childhood (Natalee, Britney B. &amp; Margrett)</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>2</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>272548</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>03%20Economics%20101.mp3</location>
+			<title>Economics 101</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>3</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>108524</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>04%20Jon%20Bennet.mp3</location>
+			<title>Jon Bennet</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>4</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>143292</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>05%20Tana%20Hofstad.mp3</location>
+			<title>Tana Hofstad</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>5</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>58603</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>06%20Abandoned.mp3</location>
+			<title>Abandoned</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>6</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>143998</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>07%20Britney%20B.mp3</location>
+			<title>Britney B.</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>7</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>36921</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>08%20Natalee.mp3</location>
+			<title>Natalee</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>8</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>142561</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>09%20The%20Pines.mp3</location>
+			<title>The Pines</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>9</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>112363</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>10%20Mel%20B.mp3</location>
+			<title>Mel B</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>10</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>137311</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>11%20Laysla.mp3</location>
+			<title>Laysla</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>11</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>149797</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>12%20Erika.mp3</location>
+			<title>Erika</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>12</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>116830</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>13%20Katy.mp3</location>
+			<title>Katy</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>13</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>98100</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>14%20Laysla%20II.mp3</location>
+			<title>Laysla II</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>14</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>189922</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>15%20Britney%20B%20II.mp3</location>
+			<title>Britney B. II</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>15</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>295772</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>16%20Milenia.mp3</location>
+			<title>Milenia</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>16</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>126888</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>17%20Shakisha.mp3</location>
+			<title>Shakisha</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>17</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>148151</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>18%20Brittney%20W.mp3</location>
+			<title>Brittney W.</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>18</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>621700</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>19%20Mukilteo.mp3</location>
+			<title>Mukilteo</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>19</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>40892</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>20%20Miranda.mp3</location>
+			<title>Miranda</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>20</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>47632</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>21%20Marissa.mp3</location>
+			<title>Marissa</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>21</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>264397</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>22%20Ted.mp3</location>
+			<title>Ted</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>22</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>183677</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>23%20Mike%20Spiess.mp3</location>
+			<title>Mike Spiess</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>23</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>178768</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>24%20Corina.mp3</location>
+			<title>Corina</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>24</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>84517</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>25%20Laysla%20III.mp3</location>
+			<title>Laysla III</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>25</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>48076</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>26%20Malik.mp3</location>
+			<title>Malik</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>26</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>255436</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>27%20Lacey.mp3</location>
+			<title>Lacey</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>27</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>449763</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>28%20Margrett.mp3</location>
+			<title>Margrett</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>28</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>873134</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>29%20Shaniquaqua.mp3</location>
+			<title>Shaniquaqua</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>29</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>627190</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>30%20Cassandra.mp3</location>
+			<title>Cassandra</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>30</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>177644</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>31%20Margrett%20II.mp3</location>
+			<title>Margrett II</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>31</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>220693</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>32%20SeaTac%20Airport.mp3</location>
+			<title>SeaTac Airport</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>32</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>233989</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>33%20Angela.mp3</location>
+			<title>Angela</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>33</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>67224</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>34%20Olivia.mp3</location>
+			<title>Olivia</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>34</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>57375</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>35%20Ciara.mp3</location>
+			<title>Ciara</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>35</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>290884</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>36%20Megan.mp3</location>
+			<title>Megan</title>
+			<creator>MIRICYL BABY</creator>
+			<album>The Mixtape of Royalty</album>
+			<trackNum>36</trackNum>
+			<annotation>I Love My Family...</annotation>
+			<duration>738988</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
+			<vlc:item tid="23"/>
+			<vlc:item tid="24"/>
+			<vlc:item tid="25"/>
+			<vlc:item tid="26"/>
+			<vlc:item tid="27"/>
+			<vlc:item tid="28"/>
+			<vlc:item tid="29"/>
+			<vlc:item tid="30"/>
+			<vlc:item tid="31"/>
+			<vlc:item tid="32"/>
+			<vlc:item tid="33"/>
+			<vlc:item tid="34"/>
+			<vlc:item tid="35"/>
+	</extension>
+</playlist>
